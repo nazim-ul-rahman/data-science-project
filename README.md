@@ -1,1 +1,1 @@
-# data-science-project-titanic
+# data-science-project
